@@ -68,7 +68,7 @@ All scripts below write figures to `output/Simulation/` and save intermediate `.
 If you use this code, please cite the manuscript and this repository.
 
 ```
-Zhang Q., et al. (2025). GSIMEX: Generalized SIMEX with polynomial extrapolation. 
+Chen L. and Zhang Q. (2025). GSIMEX: Generalized SIMEX with polynomial extrapolation. 
 Code: https://github.com/QihuangZhang/GSIMEX
 ```
 
